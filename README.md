@@ -6,9 +6,9 @@
 I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
 
 ## 	:computer: Courses
-- SpringBoot And Angular Web app full stack | Udemy
-- Git and GitHub | Udemy
-- Docker | Udemy
+- SpringBoot And Angular Web app full stack | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+- Git and GitHub | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+- Docker | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 
 ## :rocket: Technologies
