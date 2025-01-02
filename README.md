@@ -7,28 +7,13 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ### ✨ **Experiencia Profesional**
 
-#### 1️⃣ **Desarrollador**
-**ASP SOLUTIONS** · Jornada completa  
-📅 **jun. 2017 - mar. 2022** (4 años 10 meses)  
-📍 **Barranquilla, Atlántico, Colombia** · Presencial  
+#### 5️⃣ **Analista de Desarrollo Java Full Stack**
+**Nexos Software** · Jornada completa  
+📅 **ene. 2023 - dic. 2024** (2 años)  
+📍 **Bogotá, Distrito Capital, Colombia** · En remoto  
 
-- 👨‍💻 Desarrollo y soporte para empresas:
-  - Alianza Fiduciaria S.A
-  - Cámaras de Comercio
-  - Universidad Autónoma
-  - Ciclocostas
-  - Domedical
-  - Cellux S.A.S
-  - ADESA Aguas De La Sabana
-
----
-
-#### 2️⃣ **Desarrollador Java Full Stack**
-**Indra** · Jornada completa  
-📅 **mar. 2022 - ene. 2023** (11 meses)  
-📍 **Pereira, Risaralda, Colombia** · En remoto  
-
-- 🛠️ Desarrollo de artefactos para **Keralty: Colsanitas y Medisanitas**
+- 🧑‍💻 Ingeniero desarrollador Java Full Stack
+- 📲 Desarrollo de la app **Bancolombia**
 
 ---
 
@@ -51,19 +36,34 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ---
 
-#### 5️⃣ **Analista de Desarrollo Java Full Stack**
-**Nexos Software** · Jornada completa  
-📅 **ene. 2023 - dic. 2024** (2 años)  
-📍 **Bogotá, Distrito Capital, Colombia** · En remoto  
+#### 2️⃣ **Desarrollador Java Full Stack**
+**Indra** · Jornada completa  
+📅 **mar. 2022 - ene. 2023** (11 meses)  
+📍 **Pereira, Risaralda, Colombia** · En remoto  
 
-- 🧑‍💻 Ingeniero desarrollador Java Full Stack
-- 📲 Desarrollo de la app **Bancolombia**
+- 🛠️ Desarrollo de artefactos para **Keralty: Colsanitas y Medisanitas**
 
-## 	🎓 Certifications
+---
+
+#### 1️⃣ **Desarrollador**
+**ASP SOLUTIONS** · Jornada completa  
+📅 **jun. 2017 - mar. 2022** (4 años 10 meses)  
+📍 **Barranquilla, Atlántico, Colombia** · Presencial  
+
+- 👨‍💻 Desarrollo y soporte para empresas:
+  - Alianza Fiduciaria S.A
+  - Cámaras de Comercio
+  - Universidad Autónoma
+  - Ciclocostas
+  - Domedical
+  - Cellux S.A.S
+  - ADESA Aguas De La Sabana
+
+
+  ## 	🎓 Certifications
 - SpringBoot And Angular Web app full stack | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 - Git and GitHub | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 - Docker | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
-
 
 ## :rocket: Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
