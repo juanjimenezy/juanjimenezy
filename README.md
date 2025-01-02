@@ -7,58 +7,57 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ### ✨ **Professional Experience**
 
-#### 5️⃣ **Analista de Desarrollo Java Full Stack**
-**Nexos Software** · Jornada completa  
-📅 **ene. 2023 - dic. 2024** (2 años)  
-📍 **Bogotá, Distrito Capital, Colombia** · En remoto  
+#### 5️⃣ **Java Full Stack Development Analyst**
+**Nexos Software** · Full-time  
+📅 **Jan. 2023 - Dec. 2024** (2 years)  
+📍 **Bogotá, Distrito Capital, Colombia** · Remote  
 
-- 🧑‍💻 Ingeniero desarrollador Java Full Stack
-- 📲 Desarrollo de la app **Bancolombia**
-
----
-
-#### 4️⃣ **Desarrollador Full Stack**
-**Bancolombia** · Jornada completa  
-📅 **ene. 2023 - dic. 2024** (2 años)  
-📍 **Medellín, Antioquia, Colombia** · En remoto  
-
-- ⚙️ Proveedor de servicios
-- 🏗️ Desarrollo y estabilización de nuevos servicios y componentes para la app **Personas**
+- 🧑‍💻 Java Full Stack Development Engineer
+- 📲 Development of the **Bancolombia** app
 
 ---
 
-#### 3️⃣ **Desarrollador Full Stack**
-**iuvity** · Jornada completa  
-📅 **ene. 2023 - dic. 2024** (2 años)  
-📍 **Medellín, Antioquia, Colombia** · En remoto  
+#### 4️⃣ **Full Stack Developer**
+**Bancolombia** · Full-time  
+📅 **Jan. 2023 - Dec. 2024** (2 years)  
+📍 **Medellín, Antioquia, Colombia** · Remote  
 
-- 🛠️ Desarrollador Full Stack para la app **Personas Bancolombia**
-
----
-
-#### 2️⃣ **Desarrollador Java Full Stack**
-**Indra** · Jornada completa  
-📅 **mar. 2022 - ene. 2023** (11 meses)  
-📍 **Pereira, Risaralda, Colombia** · En remoto  
-
-- 🛠️ Desarrollo de artefactos para **Keralty: Colsanitas y Medisanitas**
+- ⚙️ Service Provider
+- 🏗️ Development and stabilization of new services and components for the **Personas** app
 
 ---
 
-#### 1️⃣ **Desarrollador**
-**ASP SOLUTIONS** · Jornada completa  
-📅 **jun. 2017 - mar. 2022** (4 años 10 meses)  
-📍 **Barranquilla, Atlántico, Colombia** · Presencial  
+#### 3️⃣ **Full Stack Developer**
+**iuvity** · Full-time  
+📅 **Jan. 2023 - Dec. 2024** (2 years)  
+📍 **Medellín, Antioquia, Colombia** · Remote  
 
-- 👨‍💻 Desarrollo y soporte para empresas:
+- 🛠️ Full Stack Developer for the **Personas Bancolombia** app
+
+---
+
+#### 2️⃣ **Java Full Stack Developer**
+**Indra** · Full-time  
+📅 **Mar. 2022 - Jan. 2023** (11 months)  
+📍 **Pereira, Risaralda, Colombia** · Remote  
+
+- 🛠️ Development of artifacts for **Keralty: Colsanitas and Medisanitas**
+
+---
+
+#### 1️⃣ **Developer**
+**ASP SOLUTIONS** · Full-time  
+📅 **Jun. 2017 - Mar. 2022** (4 years 10 months)  
+📍 **Barranquilla, Atlántico, Colombia** · On-site  
+
+- 👨‍💻 Development and support for companies:
   - Alianza Fiduciaria S.A
-  - Cámaras de Comercio
+  - Chambers of Commerce
   - Universidad Autónoma
   - Ciclocostas
   - Domedical
   - Cellux S.A.S
   - ADESA Aguas De La Sabana
-
 
 ## 	🎓 Certifications
 - SpringBoot And Angular Web app full stack | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
