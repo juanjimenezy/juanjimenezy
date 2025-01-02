@@ -29,14 +29,17 @@ Highly skilled and motivated developer with over 7 years of experience in back-e
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## Contact me: 
-<div>
-<a href="mailto:juanjiimenez8@gmail.com" target="blank"> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<a href="https://www.linkedin.com/in/yanina-unrein-719716b6/" target="blank"> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/> </a>
+<p align="center">
 
-<a href="https://www.instagram.com/juanjimenezy19/" target="blank"> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instargam badge"/> </a>
-</div>  
+<div align="center" class="icons-social" style="margin-left: 10px;">
+	<a style="margin-left: 10px;" target="_blank" href="mailto:juanjiimenez8@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/juanjimenezy/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://github.com/juanjimenezy">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+</div>
+
+</p>
