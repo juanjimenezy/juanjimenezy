@@ -5,6 +5,60 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
 
+### ✨ **Experiencia Profesional**
+
+#### 1️⃣ **Desarrollador**
+**ASP SOLUTIONS** · Jornada completa  
+📅 **jun. 2017 - mar. 2022** (4 años 10 meses)  
+📍 **Barranquilla, Atlántico, Colombia** · Presencial  
+
+- 👨‍💻 Desarrollo y soporte para empresas:
+  - Alianza Fiduciaria S.A
+  - Cámaras de Comercio
+  - Universidad Autónoma
+  - Ciclocostas
+  - Domedical
+  - Cellux S.A.S
+  - ADESA Aguas De La Sabana
+
+---
+
+#### 2️⃣ **Desarrollador Java Full Stack**
+**Indra** · Jornada completa  
+📅 **mar. 2022 - ene. 2023** (11 meses)  
+📍 **Pereira, Risaralda, Colombia** · En remoto  
+
+- 🛠️ Desarrollo de artefactos para **Keralty: Colsanitas y Medisanitas**
+
+---
+
+#### 3️⃣ **Desarrollador Full Stack**
+**Bancolombia** · Jornada completa  
+📅 **ene. 2023 - dic. 2024** (2 años)  
+📍 **Medellín, Antioquia, Colombia** · En remoto  
+
+- ⚙️ Proveedor de servicios
+- 🏗️ Desarrollo y estabilización de nuevos servicios y componentes para la app **Personas**
+
+---
+
+#### 4️⃣ **Desarrollador Full Stack**
+**iuvity** · Jornada completa  
+📅 **ene. 2023 - dic. 2024** (2 años)  
+📍 **Medellín, Antioquia, Colombia** · En remoto  
+
+- 🛠️ Desarrollador Full Stack para la app **Personas Bancolombia**
+
+---
+
+#### 5️⃣ **Analista de Desarrollo Java Full Stack**
+**Nexos Software** · Jornada completa  
+📅 **ene. 2023 - dic. 2024** (2 años)  
+📍 **Bogotá, Distrito Capital, Colombia** · En remoto  
+
+- 🧑‍💻 Ingeniero desarrollador Java Full Stack
+- 📲 Desarrollo de la app **Bancolombia**
+
 ## 	🎓 Certifications
 - SpringBoot And Angular Web app full stack | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 - Git and GitHub | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
