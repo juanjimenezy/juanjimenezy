@@ -34,12 +34,11 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 <p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-	<a style="margin-left: 10px;" target="_blank" href="mailto:juanjiimenez8@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ijuanjimenez19/">
-		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://github.com/juanjimenezy">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a href="mailto:juanjiimenez8@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/juanjimenezy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/573004938018"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/ijuanjimenez19/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/juanjimenezy19/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 </p>
