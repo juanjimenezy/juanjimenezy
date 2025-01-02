@@ -32,14 +32,14 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 
 
-### 👉 Databases
+### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-C71A36?style=for-the-badge&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll
+### 📥 &nbsp;Version Controll
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
