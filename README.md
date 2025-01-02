@@ -17,7 +17,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ---
 
-#### 3️⃣ **Desarrollador Full Stack**
+#### 4️⃣ **Desarrollador Full Stack**
 **Bancolombia** · Jornada completa  
 📅 **ene. 2023 - dic. 2024** (2 años)  
 📍 **Medellín, Antioquia, Colombia** · En remoto  
@@ -27,7 +27,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ---
 
-#### 4️⃣ **Desarrollador Full Stack**
+#### 3️⃣ **Desarrollador Full Stack**
 **iuvity** · Jornada completa  
 📅 **ene. 2023 - dic. 2024** (2 años)  
 📍 **Medellín, Antioquia, Colombia** · En remoto  
