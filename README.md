@@ -1,9 +1,6 @@
 <h1 align="center"><b>Hi , I'm Juan Jimenez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I´m a **Java developer Full Stack** from **Colombia**.
-
-## 	:books: Studies
-Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
+I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
 
 ## 	:computer: Courses
 - SpringBoot And Angular Web app full stack | Udemy
