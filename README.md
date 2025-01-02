@@ -126,5 +126,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 
 <div align="center" style="margin-top: 20px;">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=juanjimenezy.hoja_de_vida" alt="Visitor Count"/>
+	<a href="https://hits.seeyoufarm.com" target="_blank">
+		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanjimenezy%2Fhoja_de_vida&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Visitor Count" />
+	</a>
 </div>
