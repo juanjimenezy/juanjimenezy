@@ -115,7 +115,6 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 ## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-
 <div align="center" class="icons-social" style="margin-left: 10px;">
 	<a href="mailto:juanjiimenez8@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
 	<a href="https://wa.me/573004938018"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" target="_blank" alt="Whatsapp"/></a>
@@ -123,5 +122,9 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
     <a href="https://github.com/juanjimenezy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" target="_blank" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/juanjimenezy19/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" target="_blank" alt="Instagram"/></a>
 </div>
-
 </p>
+
+
+<div align="center" style="margin-top: 20px;">
+	<img src="https://visitor-badge.glitch.me/badge?page_id=juanjimenezy.hoja_de_vida" alt="Visitor Count"/>
+</div>
