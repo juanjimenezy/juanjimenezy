@@ -27,7 +27,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ### 👉 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
