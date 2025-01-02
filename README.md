@@ -52,7 +52,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 - 👨‍💻 Development and support for companies:
   - Alianza Fiduciaria S.A
-  - Chambers of Commerce
+  - Camaras de comercio
   - Universidad Autónoma
   - Ciclocostas
   - Domedical
