@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
 
-### ✨ **Experiencia Profesional**
+### ✨ **Professional Experience**
 
 #### 5️⃣ **Analista de Desarrollo Java Full Stack**
 **Nexos Software** · Jornada completa  
