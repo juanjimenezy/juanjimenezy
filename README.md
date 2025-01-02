@@ -60,7 +60,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
   - ADESA Aguas De La Sabana
 
 
-  ## 	🎓 Certifications
+### 	🎓 Certifications
 - SpringBoot And Angular Web app full stack | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 - Git and GitHub | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 - Docker | ![Udemy](https://img.shields.io/badge/Udemy-8c37db?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
