@@ -70,7 +70,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-! (https://img.shields.io/badge/Gradle-2adb30?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
+![Gradle](https://img.shields.io/badge/Gradle-2adb30?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
 ![SonaQube](https://img.shields.io/badge/SonarQube-CB2029?style=for-the-badge&logo=SonarQube&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
