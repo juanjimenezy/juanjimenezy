@@ -90,7 +90,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
-![AZURE](https://img.shields.io/badge/azure-32abe3))&nbsp;
+![AZURE](https://img.shields.io/badge/azure-32abe3?style=for-the-badge)&nbsp;
 
 
 ### 🗄️ Databases
