@@ -10,7 +10,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 ### ✨ **Professional Experience**
 
-#### 5️⃣ **Developer Backend Advanced**
+#### 6️⃣ **Developer Backend Advanced**
 **Pragma S.A.** · Full-time  
 📅 **Feb. 2025 - Actuality** 
 📍 **Medellin, Colombia** · Remote  
@@ -28,25 +28,6 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 
 - 🧑‍💻 Java Full Stack Development Engineer
 - 📲 Development of the **Bancolombia** app
-
----
-
-#### 4️⃣ **Full Stack Developer**
-**Bancolombia** · Full-time  
-📅 **Jan. 2023 - Dec. 2024** (2 years)  
-📍 **Medellín, Antioquia, Colombia** · Remote  
-
-- ⚙️ Service Provider
-- 🏗️ Development and stabilization of new services and components for the **Personas** app
-
----
-
-#### 3️⃣ **Full Stack Developer**
-**iuvity** · Full-time  
-📅 **Jan. 2023 - Dec. 2024** (2 years)  
-📍 **Medellín, Antioquia, Colombia** · Remote  
-
-- 🛠️ Full Stack Developer for the **Personas Bancolombia** app
 
 ---
 
