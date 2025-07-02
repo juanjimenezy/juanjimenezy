@@ -6,9 +6,20 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
+I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motivated developer with over 7 years of experience in back-end development and front-end knowledge. Strong expertise in Java, AWS, Spring Boot, Oracle Database, PostgreSQL, MySQL, Git, Jenkins, Docker, React, and Angular.
 
 ### ✨ **Professional Experience**
+
+#### 5️⃣ **Developer Backend Advanced**
+**Pragma S.A.** · Full-time  
+📅 **Feb. 2025 - Actuality** 
+📍 **Medellin, Colombia** · Remote  
+
+- 🧑‍💻 Java Full Stack Development Engineer
+- 📲 Development of the **Redeban** services and software
+
+---
+
 
 #### 5️⃣ **Java Full Stack Development Analyst**
 **Nexos Software** · Full-time  
