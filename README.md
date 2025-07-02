@@ -124,10 +124,3 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 	<a href="https://www.instagram.com/juanjimenezy19/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" target="_blank" alt="Instagram"/></a>
 </div>
 </p>
-
-##
-<div align="center" style="margin-top: 20px;">
-	<a href="https://hits.seeyoufarm.com" target="_blank">
-		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanjimenezy%2Fhoja_de_vida&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Visitor Count" />
-	</a>
-</div>
