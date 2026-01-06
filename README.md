@@ -85,7 +85,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 ![AZURE](https://img.shields.io/badge/azure-32abe3?style=for-the-badge)&nbsp;
 
 ## ☁️ Cloud
-[Azure DevOps](https://img.shields.io/badge/-bright?style=for-the-badge&logo=icloud&label=AZURE%20DEVOPS&labelColor=023559&color=023559)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/AZURE-023559?style=for-the-badge&logo=icloud)&nbsp;
 
 
 ### 🗄️ Databases
