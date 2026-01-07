@@ -82,10 +82,9 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
-![AZURE](https://img.shields.io/badge/azure-32abe3?style=for-the-badge)&nbsp;
 
 ## ☁️ Cloud
-![Azure DevOps](https://img.shields.io/badge/AZURE-023559?style=for-the-badge&logo=icloud)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/AZURE%20DEVOPS-023559?style=for-the-badge&logo=icloud)&nbsp;
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-4b66e7?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-db6d18?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS EC2](https://img.shields.io/badge/EC2-e77b14?style=for-the-badge&logo=owncloud)&nbsp;
