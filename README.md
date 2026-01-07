@@ -91,6 +91,7 @@ I´m a **Java developer Full Stack** from **Colombia**. Highly skilled and motiv
 ![AWS ECS](https://img.shields.io/badge/ECS-e77b14?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS ECR](https://img.shields.io/badge/ECR-e77b14?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS S3](https://img.shields.io/badge/S3-337920?style=for-the-badge&logo=owncloud)&nbsp;
+![AWS S3](https://img.shields.io/badge/API%20GATEWAY-e81c7f?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS SNS](https://img.shields.io/badge/SNS-bd195a?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS SQS](https://img.shields.io/badge/SQS-bd195a?style=for-the-badge&logo=owncloud)&nbsp;
 ![AWS Cognito](https://img.shields.io/badge/COGNITO-c27ea0?style=for-the-badge&logo=owncloud)&nbsp;
